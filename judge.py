@@ -31,7 +31,7 @@ class SignificanceJudge:
         checker: A dspy.Predict instance for significance checking.
     """
     
-    def __init__(self, api_key=None):
+    def __init__(self, model, api_key=None):
         """Initializes the SignificanceJudge with an API key.
         
         Args:
@@ -41,7 +41,7 @@ class SignificanceJudge:
             load_dotenv()
             api_key = os.getenv("OPENAI_API_KEY")
             
-        lm = dspy.LM(api_key=api_key, model="gpt-4o")
+        lm = dspy.LM(api_key=api_key, model=model)
         dspy.settings.configure(lm=lm)
             
         self.checker = dspy.Predict(SignificanceChecker)

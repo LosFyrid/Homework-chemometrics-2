@@ -4,7 +4,7 @@ from judge import SignificanceJudge
 from data_processer import SignificanceAnalyzer
 from getter import read_excel_data, download_papers
 
-def main():
+def main(search_terms):
     """Main function to orchestrate the paper analysis pipeline.
     
     This function coordinates the entire process of analyzing academic papers:
@@ -31,13 +31,14 @@ def main():
     # Extract relevant content
     extractor = ContentExtractor(
         input_dir="parsed_papers",
-        output_file="related_content.json"
+        output_file="related_content.json",
+        context_length=300,
+        loose_match_length=100
     )
-    search_terms = ["p-value", "statistical+significance", "significance+test"]
     extractor.extract_content(search_terms, case_sensitive=False)
     
     # Judge significance
-    judge = SignificanceJudge()
+    judge = SignificanceJudge(model="gpt-4o")
     judge.judge_content(
         input_file="related_content.json",
         output_file="significance_results.json"
@@ -62,4 +63,5 @@ def main():
         print(f"Variance of True percentages: {stats['variance']:.2f}")
 
 if __name__ == "__main__":
-    main()
+    search_terms = ["p-value", "statistical+significance", "significance+test"]
+    main(search_terms)

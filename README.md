@@ -2,22 +2,14 @@
 
 这是一个用于批量分析学术论文中统计显著性的自动化工具。该工具可以自动下载论文、提取相关内容、判断统计显著性并进行数据分析,帮助研究人员快速了解大量论文中的统计显著性结果。
 
-## 主要功能
-
-- 自动下载论文PDF(支持开放获取和Sci-Hub)
-- PDF转文本解析
-- 基于关键词的相关内容提取
-- 使用GPT-4o进行显著性判断
-- 统计显著性结果分析
-
 ## 工作流程
 
 1. 从Excel文件读取论文元数据(DOI、标题等)
 2. 通过Unpaywall API和Sci-Hub自动下载论文PDF
 3. 使用PyMuPDF将PDF转换为文本
-4. 提取包含显著性相关内容(p值、显著性检验等)的段落
-5. 使用GPT-4判断每篇论文的统计显著性
-6. 进行统计分析并生成JSON格式报告
+4. 提取包含关键词的上下文片段
+5. 使用GPT-4o判断每篇论文片段是否描述了显著或不显著的统计显著性结果
+6. 对结果进行最基础的统计分析
 
 ## 安装配置
 
@@ -60,8 +52,16 @@
    - DOI: 论文的DOI标识符
    - Article Title: 论文标题
    - Times Cited, All Databases: 引用次数
-2. 运行主程序:
+2. 修改`main.py`中的部分参数：
+   - `search_terms`变量，添加或删除搜索关键词。
+      - 默认关键词为`"p-value", "statistical+significance", "significance+test"`
+      - 如果某个关键词中含有加号`+`，搜索逻辑将变为宽松匹配，即查找在一定的上下文窗口中同时包含被加号分割的多个子内容的片段。
+   - `context_length`变量，设置提取内容上下文长度。
+   - `loose_match_length`变量，设置宽松匹配窗口大小。
+   - `case_sensitive`变量，设置搜索关键词片段时候是否区分大小写。
+   - `model`变量，设置语言模型，只支持OPENAI模型。
+3. 运行主程序:
    ```bash
    python main.py
    ```
-3. 相关内容提取结果将保存在`related_content.json`文件中，显著性判断结果将保存在`significance_results.json`文件中。显著性结果统计输出在控制台。
+4. 相关内容提取结果将保存在`related_content.json`文件中，显著性判断结果将保存在`significance_results.json`文件中。显著性结果统计输出在控制台。
