@@ -4,7 +4,7 @@ import requests
 import time
 from pathlib import Path
 from bs4 import BeautifulSoup
-
+from dotenv import load_dotenv
 
 def read_excel_data(file_path):
     # 读取Excel文件
@@ -61,9 +61,10 @@ def get_paper_by_doi(doi, email):
         return None
 
 def download_papers(df, output_folder):
-    """下载所有论文到指定文件夹"""
+    """下载所有论文"""
     df = df.copy()
-    email = "sunykai.021004@gmail.com"  # 确保使用你的真实邮箱
+    load_dotenv()
+    email = os.getenv("EMAIL")  # 确保使用你的真实邮箱
     
     print(f"开始处理，共有 {len(df)} 篇论文")
     print(f"使用的邮箱: {email}")

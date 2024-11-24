@@ -15,11 +15,11 @@ def main():
     5. Analyzing results
     """
     # Read metadata and download papers
-    # metadata = read_excel_data("metadata.xls")
-    # print(f"Read {len(metadata)} records from Excel")
+    metadata = read_excel_data("metadata.xls")
+    print(f"Read {len(metadata)} records from Excel")
     
-    # metadata_with_pdfs = download_papers(metadata, "downloaded_papers")
-    # metadata_with_pdfs.to_excel("metadata_with_pdfs.xlsx", index=False)
+    metadata_with_pdfs = download_papers(metadata, "downloaded_papers")
+    metadata_with_pdfs.to_excel("metadata_with_pdfs.xlsx", index=False)
     
     # Initialize and run PDF parser
     parser = PDFParser(
