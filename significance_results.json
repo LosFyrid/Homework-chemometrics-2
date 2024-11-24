@@ -1,0 +1,794 @@
+{
+  "significance_results": [
+    {
+      "file_name": "A clinically applicable molecular-based classification for endometrial cancers.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "A First Computational Frame for Recognizing Heparin-Binding Protein.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "A large genome-wide association study of age-related macular degeneration highlights contributions o.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "A Novel MCL1 Inhibitor Combined with Venetoclax Rescues Venetoclax-Resistant Acute Myelogenous Leuke.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "A Prospective Multi-institutional Pathologist-Based Assessment of 4 Immunohistochemistry Assays for .txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "A SIGNIFICANCE TEST FOR THE LASSO.txt",
+      "context_count": 30,
+      "is_significant": true
+    },
+    {
+      "file_name": "A Test of the Cosmological Principle with Quasars.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Activity of the Monocarboxylate Transporter 1 Inhibitor AZD3965 in Small Cell Lung Cancer.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "Adverse childhood experiences and trajectories of internalizing externalizing and prosocial behavior.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Alcohol use and mental health during COVID-19 lockdown A cross-sectional study in a sample of UK adu.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "and the Cross-Section of Expected Returns.txt",
+      "context_count": 98,
+      "is_significant": true
+    },
+    {
+      "file_name": "Apolipoprotein C-III reduction in subjects with moderate hypertriglyceridaemia and at high cardiovas.txt",
+      "context_count": 15,
+      "is_significant": true
+    },
+    {
+      "file_name": "Apolipoprotein E Genotype and Sex Risk Factors for Alzheimer Disease A Meta-analysis.txt",
+      "context_count": 16,
+      "is_significant": true
+    },
+    {
+      "file_name": "Bayesian alternatives for common null-hypothesis significance tests in psychiatry a non-technical gu.txt",
+      "context_count": 19,
+      "is_significant": false
+    },
+    {
+      "file_name": "Beneficial effects of long-term intravenous iron therapy with ferric carboxymaltose in patients with.txt",
+      "context_count": 4,
+      "is_significant": false
+    },
+    {
+      "file_name": "Binary Whale Optimization Algorithm for Dimensionality Reduction.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Blood Pressure Measurement in SPRINT Systolic Blood Pressure Intervention Trial.txt",
+      "context_count": 11,
+      "is_significant": true
+    },
+    {
+      "file_name": "Causal role of immune cells in schizophrenia Mendelian randomization MR study.txt",
+      "context_count": 2,
+      "is_significant": false
+    },
+    {
+      "file_name": "Cerebral Perfusion and the Risk of Dementia A Population-Based Study.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Changes in air pollution levels after COVID-19 outbreak in Korea.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "Characterizing dysbiosis of gut microbiome in PD evidence for overabundance of opportunistic pathoge.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "Children oral health and parents education status a cross sectional study.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Classification and diagnostic prediction of breast cancer metastasis on clinical data using machine .txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Classification of Monkeypox Images Based on Transfer Learning and the Al-Biruni Earth Radius Optimiz.txt",
+      "context_count": 7,
+      "is_significant": true
+    },
+    {
+      "file_name": "Clinical and chest computed tomography features of patients suffering from mild and severe COVID-19 .txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Clinical Trial to Assess Physiology and Activity of Masticatory Muscles of Complete Denture Wearer F.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Clinically Focused Molecular Investigation of 1000 Consecutive Families with Inherited Retinal Disea.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "cocor A Comprehensive Solution for the Statistical Comparison of Correlations.txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "Comparing spatial null models for brain maps.txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "Comprehensive analysis of different solvent extracts of Ferula communis L fruit reveals phenolic com.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Correlation detection strategies in microbial data sets vary widely in sensitivity and precision.txt",
+      "context_count": 30,
+      "is_significant": true
+    },
+    {
+      "file_name": "Cosmology from cosmic shear power spectra with Subaru Hyper Suprime-Cam first-year data.txt",
+      "context_count": 7,
+      "is_significant": false
+    },
+    {
+      "file_name": "COVID-19 ICU and mechanical ventilation patient characteristics and outcomes-A systematic review and.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "CT-based radiomic signature predicts distant metastasis in lung adenocarcinoma.txt",
+      "context_count": 22,
+      "is_significant": true
+    },
+    {
+      "file_name": "cvxEDA A Convex Optimization Approach to Electrodermal Activity Processing.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Decreased expression of long noncoding RNA GAS5 indicates a poor prognosis and promotes cell prolife.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Deep gray matter volume loss drives disability worsening in multiple sclerosis.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "Deep-learning-assisted diagnosis for knee magnetic resonance imaging Development and retrospective v.txt",
+      "context_count": 19,
+      "is_significant": true
+    },
+    {
+      "file_name": "Defining the role of common variation in the genomic and biological architecture of adult human heig.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Detection of B-Mode Polarization at Degree Angular Scales by BICEP2.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Discovery and ranking of the most robust prognostic biomarkers in serous ovarian cancer.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "DNA methylation-based measures of biological age meta-analysis predicting time to death.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "DynaMut predicting the impact of mutations on protein conformation flexibility and stability.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Early cytomegalovirus reactivation remains associated with increased transplant-related mortality in.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effect of calcifediol treatment and best available therapy versus best available therapy on intensiv.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effects of a 2-Week 5000 IU versus 1000 IU Vitamin D3 Supplementation on Recovery of Symptoms in Pat.txt",
+      "context_count": 12,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effects of COVID-19 Lockdown on Lifestyle Behaviors in Children with Obesity Living in Verona Italy .txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effects of Dapagliflozin in Stage 4 Chronic Kidney Disease.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effects of early-life antibiotics on the developing infant gut microbiome and resistome a randomized.txt",
+      "context_count": 7,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effects of lipid based Multiple Micronutrients Supplement on the birth outcome of underweight pre-ec.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Effects of Social Media on Adolescents Willingness and Intention to Use E-Cigarettes An Experimental.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Efficacy and Safety of Acoramidis in Transthyretin Amyloid Cardiomyopathy.txt",
+      "context_count": 1,
+      "is_significant": false
+    },
+    {
+      "file_name": "Efficacy of ferric carboxymaltose in heart failure with iron deficiency an individual patient data m.txt",
+      "context_count": 12,
+      "is_significant": true
+    },
+    {
+      "file_name": "Efficacy of the Glucagon-Like Peptide-1 Receptor Agonists Liraglutide and Semaglutide for the Treatm.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Efficacy of β blockers in patients with heart failure plus atrial fibrillation an individual-patient.txt",
+      "context_count": 14,
+      "is_significant": true
+    },
+    {
+      "file_name": "Efficiently controlling for case-control imbalance and sample relatedness in large-scale genetic ass.txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "Elevated body temperature is associated with depressive symptoms results from the TemPredict Study.txt",
+      "context_count": 3,
+      "is_significant": false
+    },
+    {
+      "file_name": "Emerging SARS-CoV-2 mutation hot spots include a novel RNA-dependent-RNA polymerase variant.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "Epigenome-wide association of DNA methylation markers in peripheral blood from Indian Asians and Eur.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Equivalence Testing for Psychological Research A Tutorial.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Evaluating Meta-Analytic Methods to Detect Selective Reporting in the Presence of Dependent Effect S.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "Evaluating the evidence for biotypes of depression Methodological replication and extension of Drysd.txt",
+      "context_count": 7,
+      "is_significant": false
+    },
+    {
+      "file_name": "Exploratory Study to Identify Radiomics Classifiers for Lung Cancer Histology.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "False Discovery Rates in PET and CT Studies with Texture Features A Systematic Review.txt",
+      "context_count": 16,
+      "is_significant": false
+    },
+    {
+      "file_name": "Feature selection using Joint Mutual Information Maximisation.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Fishers exact approach for post hoc analysis of a chi-squared test.txt",
+      "context_count": 77,
+      "is_significant": true
+    },
+    {
+      "file_name": "Four reasons to prefer Bayesian analyses over significance testing.txt",
+      "context_count": 13,
+      "is_significant": true
+    },
+    {
+      "file_name": "Functional Enrichment Analysis of Regulatory Elements.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Genetic Associations with Gestational Duration and Spontaneous Preterm Birth.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "Genetic Relationship between Schizophrenia and Nicotine Dependence.txt",
+      "context_count": 30,
+      "is_significant": true
+    },
+    {
+      "file_name": "Genome-wide association study of alcohol consumption and genetic overlap with other health-related t.txt",
+      "context_count": 12,
+      "is_significant": true
+    },
+    {
+      "file_name": "Green human resource management and environmental performance The role of green innovation and envir.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Gut Microbiome Associates With Lifetime Cardiovascular Disease Risk Profile Among Bogalusa Heart Stu.txt",
+      "context_count": 18,
+      "is_significant": true
+    },
+    {
+      "file_name": "Gut Microbiota and Psychiatric Disorders A Two-Sample Mendelian Randomization Study.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "GWAS Meta-Analysis of Suicide Attempt Identification of 12 Genome-Wide Significant Loci and Implicat.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "Haralick texture analysis of prostate MRI utility for differentiating non-cancerous prostate from pr.txt",
+      "context_count": 19,
+      "is_significant": true
+    },
+    {
+      "file_name": "Health and welfare assessment of beef cattle during the adaptation period in a specialized commercia.txt",
+      "context_count": 11,
+      "is_significant": true
+    },
+    {
+      "file_name": "Histopathology images predict multi-omics aberrations and prognoses in colorectal cancer patients.txt",
+      "context_count": 16,
+      "is_significant": true
+    },
+    {
+      "file_name": "How do the surrounding areas of national parks work in the context of landscape fragmentation A case.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "How to capitalize on a priori contrasts in linear mixed models A tutorial.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Hyper Suprime-Cam Year 3 results Cosmology from cosmic shear power spectra.txt",
+      "context_count": 7,
+      "is_significant": false
+    },
+    {
+      "file_name": "Identification of 15 genetic loci associated with risk of major depression in individuals of Europea.txt",
+      "context_count": 1,
+      "is_significant": false
+    },
+    {
+      "file_name": "Impact of a deep learning sepsis prediction model on quality of care and survival.txt",
+      "context_count": 4,
+      "is_significant": false
+    },
+    {
+      "file_name": "Impact of common genetic determinants of Hemoglobin A1c on type 2 diabetes risk and diagnosis in anc.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Impact of COVID-19 outbreak by income hitting hardest the most deprived.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Impact of urbanization growth on Malaysia CO2 emissions Evidence from the dynamic relationship.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Increased risk of ischemic heart disease hypertension and type 2 diabetes in women with previous ges.txt",
+      "context_count": 11,
+      "is_significant": true
+    },
+    {
+      "file_name": "Information Rigidity and the Expectations Formation Process A Simple Framework and New Facts.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "KiDS-1000 Cosmology Multi-probe weak gravitational lensing and spectroscopic galaxy clustering const.txt",
+      "context_count": 1,
+      "is_significant": false
+    },
+    {
+      "file_name": "Knowledge attitudes and perceptions of COVID-19 vaccine and refusal to receive COVID-19 vaccine amon.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "MAGMA Generalized Gene-Set Analysis of GWAS Data.txt",
+      "context_count": 100,
+      "is_significant": true
+    },
+    {
+      "file_name": "Magnetic NH2-MIL-101AlChitosan nanocomposite as a novel adsorbent for the removal of azithromycin mo.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "Maternal body mass index gestational weight gain and the risk of overweight and obesity across child.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "Maternal pre-pregnancy BMI and gestational weight gain offspring DNA methylation and later offspring.txt",
+      "context_count": 21,
+      "is_significant": true
+    },
+    {
+      "file_name": "Measurement of the properties of a Higgs boson in the four-lepton final state.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Meta-Heuristic Optimization of LSTM-Based Deep Network for Boosting the Prediction of Monkeypox Case.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Metabolically Healthy Obesity Transition to Metabolic Syndrome and Cardiovascular Risk.txt",
+      "context_count": 11,
+      "is_significant": true
+    },
+    {
+      "file_name": "Metaheuristic-based support vector regression for landslide displacement prediction a comparative st.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Microbiome differential abundance methods produce different results across 38 datasets.txt",
+      "context_count": 19,
+      "is_significant": true
+    },
+    {
+      "file_name": "Monkeypox caused less worry than COVID-19 among the general population during the first month of the.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "MRI-based brain tumor detection using convolutional deep learning methods and chosen machine learnin.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Multidomain lifestyle intervention benefits a large elderly population at risk for cognitive decline.txt",
+      "context_count": 3,
+      "is_significant": false
+    },
+    {
+      "file_name": "Multidrug-Resistant Commensal and Infection-Causing Staphylococcus spp Isolated from Companion Anima.txt",
+      "context_count": 7,
+      "is_significant": true
+    },
+    {
+      "file_name": "Mutation Profiling in Cholangiocarcinoma Prognostic and Therapeutic Implications.txt",
+      "context_count": 13,
+      "is_significant": true
+    },
+    {
+      "file_name": "Objective Measurement and Clinical Significance of TILs in Non-Small Cell Lung Cancer.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Observation of the diphoton decay of the Higgs boson and measurement of its properties.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "On p-Values and Bayes Factors.txt",
+      "context_count": 182,
+      "is_significant": true
+    },
+    {
+      "file_name": "Overall survival in patients with platinum-sensitive recurrent serous ovarian cancer receiving olapa.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "Pancancer survival analysis of cancer hallmark genes.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Parental Attitudes and Hesitancy About COVID-19 vs Routine Childhood Vaccinations A National Survey.txt",
+      "context_count": 20,
+      "is_significant": true
+    },
+    {
+      "file_name": "Phylosymbiosis Relationships and Functional Effects of Microbial Communities across Host Evolutionar.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Physical activity and risks of breast and colorectal cancer a Mendelian randomisation analysis.txt",
+      "context_count": 26,
+      "is_significant": true
+    },
+    {
+      "file_name": "Planck 2013 results XXIII Isotropy and statistics of the CMB.txt",
+      "context_count": 34,
+      "is_significant": true
+    },
+    {
+      "file_name": "Planck 2015 results XVI Isotropy and statistics of the CMB.txt",
+      "context_count": 89,
+      "is_significant": true
+    },
+    {
+      "file_name": "Planck 2015 results XX Constraints on inflation.txt",
+      "context_count": 19,
+      "is_significant": false
+    },
+    {
+      "file_name": "Planck 2018 results IX Constraints on primordial non-Gaussianity.txt",
+      "context_count": 8,
+      "is_significant": true
+    },
+    {
+      "file_name": "Plasma interleukin-6 concentrations metabolic dysfunction and asthma severity a cross-sectional anal.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Predictability of orthodontic tooth movement with aligners effect of treatment design.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Prefrontal Cortical Dendritic Spine Pathology in Schizophrenia and Bipolar Disorder.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Prevention of cardiac dysfunction during adjuvant breast cancer therapy PRADA a 2 x 2 factorial rand.txt",
+      "context_count": 5,
+      "is_significant": true
+    },
+    {
+      "file_name": "PRSice Polygenic Risk Score software.txt",
+      "context_count": 12,
+      "is_significant": true
+    },
+    {
+      "file_name": "Radiomic phenotype features predict pathological response in non-small cell lung cancer.txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "Reconstructing regional population fluctuations in the European Neolithic using radiocarbon dates a .txt",
+      "context_count": 11,
+      "is_significant": true
+    },
+    {
+      "file_name": "REGRESSION ANALYSIS FOR MICROBIOME COMPOSITIONAL DATA.txt",
+      "context_count": 7,
+      "is_significant": true
+    },
+    {
+      "file_name": "Relationship between TyG index and the degree of coronary artery lesions in patients with H-type hyp.txt",
+      "context_count": 4,
+      "is_significant": true
+    },
+    {
+      "file_name": "Residual inflammatory risk associated with interleukin-18 and interleukin-6 after successful interle.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Respiratory rehabilitation in elderly patients with COVID-19 A randomized controlled study.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Resting state EEG biomarkers of cognitive decline associated with Alzheimers disease and mild cognit.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "scPerturb harmonized single-cell perturbation data.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Scrutinizing CKM unitarity with a new measurement of the Kμ3Kμ2 branching fraction.txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "Selective BCL-2 Inhibition by ABT-199 Causes On-Target Cell Death in Acute Myeloid Leukemia.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Sex Differences and Similarities in Atrial Fibrillation Epidemiology Risk Factors and Mortality in C.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Shared and distinct genetic risk factors for childhood-onset and adult-onset asthma genome-wide and .txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "Short-Term Pulmonary Function Trends Are Predictive of Mortality in Interstitial Lung Disease Associ.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Significant-Loophole-Free Test of Bells Theorem with Entangled Photons.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Six-month functional recovery of stroke patients a multi-time-point study.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Standards and guidelines for the interpretation of sequence variants a joint consensus recommendatio.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Statistical Significance for Hierarchical Clustering.txt",
+      "context_count": 35,
+      "is_significant": true
+    },
+    {
+      "file_name": "Summed Probability Distribution of 14C Dates Suggests Regional Divergences in the Population Dynamic.txt",
+      "context_count": 11,
+      "is_significant": true
+    },
+    {
+      "file_name": "Testing for baseline differences in randomized controlled trials an unhealthy research behavior that.txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "The association between germline BRCA2 variants and sensitivity to platinum-based chemotherapy among.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "The circRNA circSEPT9 mediated by E2F1 and EIF4A3 facilitates the carcinogenesis and development of .txt",
+      "context_count": 3,
+      "is_significant": true
+    },
+    {
+      "file_name": "The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample fi.txt",
+      "context_count": 2,
+      "is_significant": false
+    },
+    {
+      "file_name": "The Effect of Abemaciclib Plus Fulvestrant on Overall Survival in Hormone Receptor-Positive ERBB2-Ne.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "The Hartung-Knapp-Sidik-Jonkman method for random effects meta-analysis is straightforward and consi.txt",
+      "context_count": 17,
+      "is_significant": true
+    },
+    {
+      "file_name": "The nongravitational interactions of dark matter in colliding galaxy clusters.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "TNMplotcom A Web Tool for the Comparison of Gene Expression in Normal Tumor and Metastatic Tissues.txt",
+      "context_count": 1,
+      "is_significant": true
+    },
+    {
+      "file_name": "Trial of Solanezumab for Mild Dementia Due to Alzheimers Disease.txt",
+      "context_count": 1,
+      "is_significant": false
+    },
+    {
+      "file_name": "Triglyceride-glucose body mass index predicts prognosis in patients with ST-elevation myocardial inf.txt",
+      "context_count": 7,
+      "is_significant": true
+    },
+    {
+      "file_name": "TSE-IDS A Two-Stage Classifier Ensemble for Intelligent Anomaly-Based Intrusion Detection System.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "UID2021 An Underwater Image Dataset for Evaluation of No-Reference Quality Assessment Metrics.txt",
+      "context_count": 2,
+      "is_significant": true
+    },
+    {
+      "file_name": "Untargeted metabolomics of COVID-19 patient serum reveals potential prognostic markers of both sever.txt",
+      "context_count": 12,
+      "is_significant": true
+    },
+    {
+      "file_name": "Vitamin D and Risk of Multiple Sclerosis A Mendelian Randomization Study.txt",
+      "context_count": 10,
+      "is_significant": true
+    },
+    {
+      "file_name": "WEGO 20 a web tool for analyzing and plotting GO annotations 2018 update.txt",
+      "context_count": 9,
+      "is_significant": true
+    },
+    {
+      "file_name": "Whats normal anyway Residual plots are more telling than significance tests when checking ANOVA assu.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Which is more generalizable powerful and interpretable in meta-analyses mean difference or standardi.txt",
+      "context_count": 6,
+      "is_significant": true
+    },
+    {
+      "file_name": "Which preschool mathematics competencies are most predictive of fifth grade achievement.txt",
+      "context_count": 5,
+      "is_significant": true
+    }
+  ]
+}
